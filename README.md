@@ -2,11 +2,11 @@
 
 This project performs the process of pulling data to the android application using a specific api.
 
+It is an android project implemented using Kotlin and MVVM architecture.
+Network libraries that are frequently used on android, such as Retrofit and Picasso, have been used.
 
-Kotlin ve MVVM  mimarisi kullanılarak gerçekleştirilmiş bir android projesidir.
-Retrofit ve Picasso gibi  androidde sık kullanılan ağ kütüphaneleri kullanılmıştır.
 
- Api link used in the project: https://rickandmortyapi.com 
+Api link used in the project: https://rickandmortyapi.com 
 
 
 # Project Example Demonstration
